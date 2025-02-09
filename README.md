@@ -1,6 +1,6 @@
-# StarkGuardian 🛡️
+# AgentGuardian 🛡️
 
-StarkGuardian is an AI-powered Telegram bot that helps users interact with Starknet blockchain through natural language commands. Built using Eliza, OpenAI, and Starknet Agent Kit, it provides easy access to wallet management and token operations.
+AgentGuardian is an AI-powered Telegram bot that helps users interact with Starknet blockchain through natural language commands. Built using Eliza, OpenAI, and Starknet Agent Kit, it provides easy access to wallet management and token operations.
 
 ## ✨ Core Features
 
@@ -98,10 +98,10 @@ PUBLIC_ADDRESS=your_public_address
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/ankit875/starkguardian.git
+git clone https://github.com/ankit875/agentGuardian.git
 
 # Install dependencies
-cd starkguardian
+cd agentGuardian
 pnpm install
 
 # Start the bot
